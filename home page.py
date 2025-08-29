@@ -57,4 +57,4 @@ elif st.session_state.page == "FAQs":
     st.write("Question : Is the information 100% Accuret?")
     st.write("Answer : we try to give the most accurete answers but they still could be wrong _so always check_!")
 
-streamlit==1.48.1
+
