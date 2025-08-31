@@ -14,7 +14,6 @@ if st.sidebar.button("FAQs"):
     st.session_state.page = "FAQs"
 
 Israeli_products = [
-companies = [
     "ADAMA",
     "AHAVA",
     "AXA",
