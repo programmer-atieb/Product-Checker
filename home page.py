@@ -157,8 +157,6 @@ Israeli_products = [
     "ebay"
 ]
 
-]
-
 
 
 if st.session_state.page == "Homepage":
